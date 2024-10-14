@@ -10,7 +10,7 @@ setup(
     ],
     author="Pengcheng Zhou",
     author_email="zhoupc19@gmail.com",
-    description="A utility package for DAMI",
+    description="A utility package for DAMI lab",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/zhoupc/dami-utils",
