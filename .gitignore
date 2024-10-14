@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+.venv/
+.env
+.DS_Store
+dami_utils.egg-info/
+
+
