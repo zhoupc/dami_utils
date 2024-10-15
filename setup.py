@@ -5,7 +5,7 @@ setup(
     version="0.1.0",
     packages=find_packages(),
     install_requires=[
-        "latex2svg",
+        "latex2svg @ git+https://github.com/Moonbase59/latex2svg.git",
         # Add other dependencies here
     ],
     author="Pengcheng Zhou",
